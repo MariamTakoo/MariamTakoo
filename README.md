@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Falguni @Hackerrank" height="40" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" />
 </a>
 <a href="https://leetcode.com/Takoo/">
-  <img align="center" alt="Falguni @Letcoode" height="60" src="https://rohit-kumar.me/images/leetcode.svg" />
+  <img align="center" alt="Falguni @Letcoode" height="50" src="https://rohit-kumar.me/images/leetcode.svg" />
 </a>
 <br><br>
 <p > <img src="https://github-readme-stats.vercel.app/api?username=MariamTakoo&show_icons=true" alt="MariamTakoo" /> </p>
