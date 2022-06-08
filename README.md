@@ -42,6 +42,6 @@ Here are some ideas to get you started:
 <a href="https://leetcode.com/Takoo/">
   <img align="center" alt="Falguni @Letcoode" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
-<br>
+<br><br><br>
 <p > <img src="https://github-readme-stats.vercel.app/api?username=MariamTakoo&show_icons=true" alt="MariamTakoo" /> </p>
 
