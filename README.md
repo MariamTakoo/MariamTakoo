@@ -35,3 +35,6 @@ Here are some ideas to get you started:
   <img align="center" alt="Falguni @Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
 
+<a href="https://codeforces.com/profile/Takoo">
+  <img align="center" alt="Falguni @Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
+</a>
