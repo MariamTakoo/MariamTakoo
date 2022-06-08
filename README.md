@@ -1,6 +1,6 @@
 <div align='center'><h1>
             Hi there! 👋!</h1> 
-</div>
+            
 <!--
 **MariamTakoo/MariamTakoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+</div>
 
 ### Languages and Tools 🛠: ###
   
@@ -43,5 +43,5 @@ Here are some ideas to get you started:
   <img align="center" alt="Falguni @Letcoode" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MariamTakoo&show_icons=true" alt="MariamTakoo" /> </p>
+<p > <img src="https://github-readme-stats.vercel.app/api?username=MariamTakoo&show_icons=true" alt="MariamTakoo" /> </p>
 
