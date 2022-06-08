@@ -40,5 +40,5 @@ Here are some ideas to get you started:
 </a>
   
 <a href="https://leetcode.com/Takoo/">
-  <img align="center" alt="Falguni @Letcoode" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+  <img align="center" alt="Falguni @Letcoode" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sql.svg" />
 </a>
