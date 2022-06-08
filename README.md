@@ -29,13 +29,11 @@ Here are some ideas to get you started:
 </a>   
 <a href="https://twitter.com/Mariam_Takoo">
   <img align="center" alt="Falguni @Twitter" height="40" src="https://cdn-icons-png.flaticon.com/512/1384/1384065.png" />
-</a>   
+</a>   <a href="https://codeforces.com/profile/Takoo">
+  <img align="center" alt="Falguni @Codeforces" height="40" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/codeforces-512.png" />
+</a>       
 <a href="https://www.hackerrank.com/Takoo_">
   <img align="center" alt="Falguni @Hackerrank" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
-</a>
-   
-<a href="https://codeforces.com/profile/Takoo">
-  <img align="center" alt="Falguni @Codeforces" height="40" src="https://codeforces.com/predownloaded/a6/3d/a63d54672c2a3d1b6804518fc520ef3da2cf9875.png" />
 </a>
   
 <a href="https://leetcode.com/Takoo/">
