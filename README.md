@@ -24,17 +24,17 @@ Here are some ideas to get you started:
 ### 📫 Reach me at 
 <a href="https://www.linkedin.com/in/mariam-tarek-39a838206/">
   <img align="center" alt="Falguni @LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+</a>  
   <a href="mailto:mariam0155357@gmail.com">
-  <img align="center" alt="Falguni @Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
+  <img align="center" alt="Falguni @Mail" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>  
 <a href="https://twitter.com/Mariam_Takoo">
-  <img align="center" alt="Falguni @Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
+  <img align="center" alt="Falguni @Twitter" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>  
 <a href="https://www.hackerrank.com/Takoo_">
-  <img align="center" alt="Falguni @Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+  <img align="center" alt="Falguni @Hackerrank" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
-
+  
 <a href="https://codeforces.com/profile/Takoo">
-  <img align="center" alt="Falguni @Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
+  <img align="center" alt="Falguni @Codeforces" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
 </a>
