@@ -34,6 +34,4 @@ Here are some ideas to get you started:
 <a href="https://www.hackerrank.com/Takoo_">
   <img align="center" alt="Falguni @Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
-<a href="https://dev.to/lostgirljourney">
-  <img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Falguni @DEV Profile" width="22px">
-</a>
+
