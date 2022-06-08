@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Falguni @LinkedIN" height="40" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>   
   <a href="mailto:mariam0155357@gmail.com">
-  <img align="center" alt="Falguni @Mail" height="40" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
+  <img align="center" alt="Falguni @Mail" height="35" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
 </a>   
 <a href="https://twitter.com/Mariam_Takoo">
   <img align="center" alt="Falguni @Twitter" height="40" src="https://cdn-icons-png.flaticon.com/512/1384/1384065.png" />
