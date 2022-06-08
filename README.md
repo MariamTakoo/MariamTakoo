@@ -43,4 +43,5 @@ Here are some ideas to get you started:
 </a>
 <br><br>
 <p > <img src="https://github-readme-stats.vercel.app/api?username=MariamTakoo&show_icons=true" alt="MariamTakoo" /> </p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariamTakoo&count_private=true&theme=dracula">
 
