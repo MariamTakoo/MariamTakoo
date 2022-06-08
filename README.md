@@ -1,4 +1,5 @@
-<div align="center><h1>Hi there! 👋!</h1> 
+<div align='center'><h1>
+            Hi there! 👋!</h1> 
 
 <!--
 **MariamTakoo/MariamTakoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+</div>
 
 ### Languages and Tools 🛠: ###
 
@@ -38,4 +39,4 @@ Here are some ideas to get you started:
 <a href="https://codeforces.com/profile/Takoo">
   <img align="center" alt="Falguni @Codeforces" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
 </a>
-</div>
+
