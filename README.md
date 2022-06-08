@@ -24,17 +24,21 @@ Here are some ideas to get you started:
 ### Reach me at 📫:
 <a href="https://www.linkedin.com/in/mariam-tarek-39a838206/">
   <img align="center" alt="Falguni @LinkedIN" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>  
+</a>   
   <a href="mailto:mariam0155357@gmail.com">
   <img align="center" alt="Falguni @Mail" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>  
+</a>   
 <a href="https://twitter.com/Mariam_Takoo">
   <img align="center" alt="Falguni @Twitter" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>  
+</a>   
 <a href="https://www.hackerrank.com/Takoo_">
   <img align="center" alt="Falguni @Hackerrank" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
-  
+   
 <a href="https://codeforces.com/profile/Takoo">
   <img align="center" alt="Falguni @Codeforces" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
+</a>
+  
+<a href="https://leetcode.com/Takoo/">
+  <img align="center" alt="Falguni @Letcoode" height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
