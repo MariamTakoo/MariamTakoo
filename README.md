@@ -35,9 +35,9 @@ Here are some ideas to get you started:
 <a href="https://www.hackerrank.com/Takoo_">
   <img align="center" alt="Falguni @Hackerrank" height="40" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" />
 </a>
-  
+ 
 <a href="https://leetcode.com/Takoo/">
-  <img align="center" alt="Falguni @Letcoode" height="50" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" />
+  <img align="center" alt="Falguni @Letcoode" height="60" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" />
 </a>
 <br><br>
 <p > <img src="https://github-readme-stats.vercel.app/api?username=MariamTakoo&show_icons=true" alt="MariamTakoo" /> </p>
