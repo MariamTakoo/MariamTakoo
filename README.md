@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/Mariam_Takoo">
   <img align="center" alt="Falguni @Twitter" height="40" src="https://cdn-icons-png.flaticon.com/512/1384/1384065.png" />
 </a>   <a href="https://codeforces.com/profile/Takoo">
-  <img align="center" alt="Falguni @Codeforces" height="40" src="https://rohit-kumar.me/images/codeforces.svg" />
+  <img align="center" alt="Falguni @Codeforces" height="40" src="https://play-lh.googleusercontent.com/WsR_f03nbqW3qZjCZeXUYmnmhSWXo3hQhLX9hgl9QHydCgbXQi_VJeAwnmtuIgTHKdQ=w240-h480-rw" />
 </a>       
 <a href="https://www.hackerrank.com/Takoo_">
   <img align="center" alt="Falguni @Hackerrank" height="40" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/160_Hackerrank-512.png" />
