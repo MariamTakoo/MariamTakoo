@@ -5,14 +5,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/mariam_takoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/mariam_takoo" height="30" width="40" /></a>
+<a href="https://twitter.com/mariam_takoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mariam_takoo" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mariam-tarek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mariam-tarek" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/17944992/mariam-takoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/17944992/mariam-takoo" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/17944992" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17944992" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100080166738224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100080166738224" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucmvrdioqpxjmigwtnqleeba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucmvrdioqpxjmigwtnqleeba" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/takoo_?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/takoo_?hr_r=1" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/takoo_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="takoo_" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/takoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="takoo" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/takoo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/takoo/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/takoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="takoo" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
