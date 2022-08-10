@@ -16,6 +16,6 @@
 <a href="https://codeforces.com/profile/takoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="takoo" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/takoo_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="takoo_" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/takoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="takoo" height="30" width="40" /></a>
-</p>
+</p><br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mariamtakoo&show_icons=true&locale=en" alt="mariamtakoo" /></p>
 </p>
